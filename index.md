@@ -1,25 +1,10 @@
 ---
 layout: default
-title: CC Anesthesia
+title: Anesthesia Dev
 ---
+## ACE
 
-## Plans
+* [ACE 18A 2021](./ace/18A_2021.md)
 
-* [Adductor Nerve Block](./plans/adductornerveblock.md)
-* [Palmer Kidney Transplant](./plans/palmerkidney.md)
-* [Rigid Bronch](./plans/rigidbronch.md)
-
-## Processes
-* [ICU Handoff](./processes/icuhandoff.md)
-
-## References
-
-* [Covid Testing Requirements](./references/covidtesting.md)
-* [Department Phone Numbers](./references/phone.md)
-* [Neonatal/Infant Admission Requirements](./references/neonataladmissions.md)
-* [Syndromes](./syndromes/index.md)
-* [Helpful Links](./references/links.md)
-
-## Epic Tips
-
-* [Adding Images](./epic/addimage.md)
+## Online Review
+* [CV Physiology](./physiology/Cardiovascular_PhysPharm.md)
