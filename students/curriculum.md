@@ -4,7 +4,7 @@
 
 AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
 
-![](../_images/ame.jpg)
+![Cover](https://www.anesthesia.dev/_images/ame.jpg)
 
 ## Week 1
 
