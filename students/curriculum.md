@@ -7,7 +7,14 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 [Cover](./../_images/ame.jpg)
 
 ## Links
-[Day 1](#1)
+
+| Week 1 | Week 2 | Week 3 | Week 4 |
+| - | - | - | - |
+| [Day 1](#1) | | [Day 6](#6) | [Day 11](#11) | [Day 16](#16) |
+| [Day 2](#2) | | [Day 7](#7) | [Day 12](#12) | [Day 17](#17) |
+| [Day 3](#3) | | [Day 8](#8) | [Day 13](#13) | [Day 18](#18) |
+| [Day 4](#4) | | [Day 9](#9) | [Day 14](#14) | [Day 19](#19) |
+| [Day 5](#5) | | [Day 10](#10) | [Day 15](#15) | [Day 20](#20) | 
 
 ## Week 1
 
@@ -18,15 +25,15 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 |  | Ch 3 | How to Study Anesthsiology | AME 17-18 |
 |  | Ch 4 | Anesthesiology Basic Concepts | AME 19-26 |
 |  | Ch 21 | Anesthesia Machine and Monitors | AME 85-90 |
-| Day 2 | Ch 5 | Getting Around in the OR | AME 27-32 |
+| <a name="2">Day 2</a>| Ch 5 | Getting Around in the OR | AME 27-32 |
 |  | Ch 18 | Preoperative Anesthesa H&P | AME 74-80 |
 |  | Ch 19 | Airway Exam and Assessment | AME 81-82 |
-| Day 3 | Ch 6 | Basic Anesthesia pharmacology: Vapors and Gases | AME 33-36|
+| <a name="3">Day 3</a>| Ch 6 | Basic Anesthesia pharmacology: Vapors and Gases | AME 33-36|
 | | Ch 7 | Basic Anesthesia Pharmacology: Vapors and Gases | AME 37-43 |
-| Day 4 | Ch 8 | Benzodiazepines and Reversal | AME 43 |
+| <a name="4">Day 4</a>| Ch 8 | Benzodiazepines and Reversal | AME 43 |
 | | Ch 9 | Induction Medications | AME 44-47 |
 | | Ch 10 | Pain Medications and Reversals | AME 48-53|
-| Day 5 | Ch 11 | NMB Medications and Reversals | AME 53-59 |
+| <a name="5">Day 5</a>| Ch 11 | NMB Medications and Reversals | AME 53-59 |
 | | Ch 12 | Autonomic Nervous System Medications | AME 60-64 |
 
 
