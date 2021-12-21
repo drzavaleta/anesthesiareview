@@ -6,7 +6,7 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 
 [Cover](./../_images/ame.jpg)
 
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="http://anesthesia.dev/_images/ame.jpg">](http://google.com.au/)
 
 ## Reading Shortcuts
 
