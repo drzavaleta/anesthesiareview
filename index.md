@@ -12,3 +12,5 @@ title: Anesthesia Dev
 ## Student Curriculum
 
 * [Reading Outline](./students/curriculum.md)
+* [Papers](/students/papers.md)
+* [Memorization Items](./students/memorization.md)
