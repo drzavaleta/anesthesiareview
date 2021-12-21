@@ -49,19 +49,19 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 
 | Day | Chapter | Title | Pages |
 | - | - | - | - |
-| Day 6 | Ch 13 | Vasoactive Medications | AME 65-67 |
+| <a name="6">Day 6</a>| Ch 13 | Vasoactive Medications | AME 65-67 |
 | | Ch 14 | Antihypertensives | AME 68 |
 | | Ch 15 | Common Antibiotics | AME 69 |
 | | Ch 16 | Common Local Anesthetics  | AME 70 |
 | | Ch 17 | Postop Nausea and Vomiting (PONV) | AME 71-73 |
-| Day 7 | Ch 20 | Presenting Your Patient | AME 83-84 |
-| Day 8 | Ch 22 | Setting Up Your Room | AME 91-95 |
+| <a name="7">Day 7</a>| Ch 20 | Presenting Your Patient | AME 83-84 |
+| <a name="8">Day 8</a>| Ch 22 | Setting Up Your Room | AME 91-95 |
 | | Ch 23 | Common Adult Setup | AME 96-98 |
 | | Ch 24 | Adult Airway Management | AME 99-110 |
-| Day 9 | Ch 25 | Pediatric Airway Management | AME 111-119 |
+| <a name="9">Day 9</a>| Ch 25 | Pediatric Airway Management | AME 111-119 |
 | | Ch 26 | Advanced Airways | AME 120-121 |
 | | Ch 27 | Rapid Sequence Induction (RSI) | AME 122-123 |
-| Day 10 | Ch 28 | Putting It All Together | AME 124-127 |
+| <a name="10">Day 10</a>| Ch 28 | Putting It All Together | AME 124-127 |
 
 ## Discussion Topics
  
@@ -73,11 +73,11 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 
 | Day | Chapter | Title | Pages |
 | - | - | - | - |
-| Day 11 |  Ch 29 | Regional Anesthesia | AME 128-135 |
+| <a name="11">Day 11</a>|  Ch 29 | Regional Anesthesia | AME 128-135 |
 | | Ch 31 | Malignant Hyperthermia | AME 146-149 |
 
 ## WeeK #4
 
 | Day | Chapter | Title | Pages |
 | - | - | - | - |
-| Day 16 | Ch 32 | On Your Own | AME 150-167 |
+| <a name="16">Day 16</a>| Ch 32 | On Your Own | AME 150-167 |
