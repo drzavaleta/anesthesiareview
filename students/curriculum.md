@@ -6,11 +6,14 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 
 [Cover](./../_images/ame.jpg)
 
+## Links
+[Day 1](#1)
+
 ## Week 1
 
 | Day | Chapter | Title | Pages |
 | - | - | - | - |
-| Day 1 | Ch 1 | Getting the Most from Your Anesthesiology Observation | AME 13-14 |
+| <a name="1">Day 1</a>| Ch 1 | Getting the Most from Your Anesthesiology Observation | AME 13-14 |
 |  | Ch 2 | What You Should Learn | AME 15-16|
 |  | Ch 3 | How to Study Anesthsiology | AME 17-18 |
 |  | Ch 4 | Anesthesiology Basic Concepts | AME 19-26 |
