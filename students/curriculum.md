@@ -6,7 +6,9 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 
 [Cover](./../_images/ame.jpg)
 
-## Links
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
+## Reading Shortcuts
 
 | Week 1 | Week 2 | Week 3 | Week 4 |
 | - | - | - | - |
