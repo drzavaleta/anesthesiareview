@@ -80,6 +80,6 @@
 
 AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
 
-[Cover](./../_images/ame.jpg)
+[Cover](./../images/ame.jpg)
 
-[<img src="/_images/ame.png">](http://anesthesia.dev/)
+[<img src="/images/ame.png">](http://anesthesia.dev/)
