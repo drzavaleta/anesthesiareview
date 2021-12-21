@@ -2,9 +2,9 @@
 
 ## References
 
-AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
+AME2 = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
 
-![Cover](/_images/ame.jpg)
+[Cover](/_images/ame.jpg)
 
 ## Week 1
 
