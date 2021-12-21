@@ -1,13 +1,5 @@
 # Reading Schedule
 
-## References
-
-AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
-
-[Cover](./../_images/ame.jpg)
-
-[<img src="/_images/ame.png">](http://anesthesia.dev/)
-
 ## Reading Shortcuts
 
 | Week 1 | Week 2 | Week 3 | Week 4 |
@@ -83,3 +75,11 @@ AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-M
 | Day | Chapter | Title | Pages |
 | - | - | - | - |
 | <a name="16">Day 16</a>| Ch 32 | On Your Own | AME 150-167 |
+
+## References
+
+AME = [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
+
+[Cover](./../_images/ame.jpg)
+
+[<img src="/_images/ame.png">](http://anesthesia.dev/)
