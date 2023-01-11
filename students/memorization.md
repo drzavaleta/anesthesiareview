@@ -53,3 +53,11 @@
 | Clonidine | 0.1 - 0.2 mcg/kg/hr | bolus = 0.5-2mck/kg. Do not give if hemodynamically unstable |
 | Hydromorphone | 0.5 - 2 mcg/kg/hr | epidural use only |
 | Fentanyl | 1  mcg/kg/hr | epidural use only |
+
+## Mallapatti Classification
+
+![Mallampatti Classification](/docs/assets/images/mallampatti.png)
+
+## Cormack-Lehane Classification
+
+![Cormack-Lehane Classification](/docs/assets/images/cormacklehane.png)
