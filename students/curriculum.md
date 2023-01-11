@@ -68,7 +68,7 @@
 | <a name="11">Day 11</a>|  Ch 29 | Regional Anesthesia | AME 128-135 |
 | | Ch 31 | Malignant Hyperthermia | AME 146-149 |
 
-## WeeK #4
+## Week #4
 
 | Day | Chapter | Title | Pages |
 | - | - | - | - |
@@ -76,7 +76,6 @@
 
 ## References
 
-* AME = Anesthesia Made Easy by Jeff Steiner
-[![Anesthesia Made Easy](/docs/assets/images/ame.png)](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
-
 * [Anesthesia Made Easy by Jeff Steiner](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
+
+[![Anesthesia Made Easy](/docs/assets/images/ame.png)](https://www.amazon.com/Anesthesia-Made-Easy-Survival-Rotation/dp/0989840131){:target="_blank"}
