@@ -6,8 +6,8 @@
 
 ## Anesthesia with Orthopedic Surgery
 
-* [![Anesthesia vs. Orthopedic Surgery](/docs/assets/images/orthopedic.png)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
+[![Anesthesia vs. Orthopedic Surgery](/docs/assets/images/orthopedic.png)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
 
-### Anesthesia Patient Interview
+## Anesthesia Patient Interview
 
-* [![Anesthesia Patient Interview](/docs/assets/images/interview.png)](https://youtu.be/E75FPnr8DYo)
+[![Anesthesia Patient Interview](/docs/assets/images/interview.png)](https://youtu.be/E75FPnr8DYo)
