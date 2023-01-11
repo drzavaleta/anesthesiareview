@@ -64,4 +64,4 @@
 
 ## Difficult Airway Algorithm
 
-![Difficult Airway Algorithm](/docs/assets/images/difficult_airway.jpg)
+![Difficult Airway Algorithm](/docs/assets/images/difficult_airway.jpeg)
