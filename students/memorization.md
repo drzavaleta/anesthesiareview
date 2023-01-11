@@ -27,7 +27,8 @@
 | Preop | Midazolam | GABA agonist | Nasal: 0.2 mg/kg <br/> PO: 0.5 mg/kg <br/> IV: 0.1 mg/kg | up to 2mg IV |
 | Preop | Dexmedetomidine | alpha 2a agonist | PO: 2-4 mcg/kg <br/> Nasal: 2-4 mcg/kg <br/> IV: 2mcg/kg | |
 | Preop | Ketamine | NMDA blocker | IV: 0.5-1 mg/kg <br/> IM: 3-5 mg/kg |
-| Induction | Propofol | increases GABA-mediated CNS inhibition | 2-4 mg/kg | 
+| Induction | Propofol | increases GABA-mediated CNS inhibition | IV: 2-4 mg/kg |
+| Induction | Etomidate | stimulates GABA receptors <br/> depresses reticular activating system | IV: 0.3 mg/kg |
 
 ## Reversal Drugs
 
