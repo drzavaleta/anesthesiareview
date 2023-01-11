@@ -6,11 +6,11 @@
 
 ## Humorous
 
-[![Anesthesia vs. Orthopedic Surgery](https://img.youtube.com/vi/3rTsvb2ef5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
-[[Anesthesia vs. Orthopedic Surgery](https://img.youtube.com/vi/3rTsvb2ef5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
+* [![Anesthesia vs. Orthopedic Surgery](https://img.youtube.com/vi/3rTsvb2ef5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
 
-Anesthesia vs. Orthopedic Surgery
-[![Anesthesia vs. Orthopedic Surgery](https://img.youtube.com/vi/3rTsvb2ef5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
+* [[Anesthesia vs. Orthopedic Surgery](https://img.youtube.com/vi/3rTsvb2ef5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
 
+### Anesthesia vs. Orthopedic Surgery
+[![Anesthesia vs. Orthopedic Surgery](https://img.youtube.com/vi/3rTsvb2ef5k/maxresdefault.jpg)](https://www.youtube.com/watch?v=3rTsvb2ef5k)
 
 * [Anesthesia Patient Interview](https://youtu.be/E75FPnr8DYo)
