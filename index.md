@@ -9,7 +9,7 @@ title: Anesthesia Dev
 ## Online Review
 * [CV Physiology](./physiology/Cardiovascular_PhysPharm.md)
 
-## Student Curriculum
+## Medical Students
 
 * [Reading Outline](./students/curriculum.md)
 * [Papers](/students/papers.md)
