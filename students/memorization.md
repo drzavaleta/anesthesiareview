@@ -61,3 +61,7 @@
 ## Cormack-Lehane Classification
 
 ![Cormack-Lehane Classification](/docs/assets/images/cormacklehane.png)
+
+## Difficult Airway Algorithm
+
+![Difficult Airway Algorithm](/docs/assets/images/difficult_airway.png)
