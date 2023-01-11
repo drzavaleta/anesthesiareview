@@ -14,3 +14,4 @@ title: Anesthesia Dev
 * [Reading Outline](./students/curriculum.md)
 * [Papers](/students/papers.md)
 * [Memorization Items](./students/memorization.md)
+* [Videos](.students/videos.md)
